@@ -48,4 +48,9 @@ Interpret the results and provide Insights/Foresights on both scenarios
 In addition, you should prepare both a presentation file (pptx) and a comprehensive case report (docx) to the board along with your project files (Jupyter html and ipynb). 
 
 
+## Presentation
+![Movie_Recommender_Presentation.pdf](https://github.com/JenniferGrosz/Movie_Recommender_Service/blob/e67b632293270fd395e83582a65583a5370b048e/Movie_Recommender_Presentation.pdf)
+
+
+## Project
 ![Movie_recommendation_service.pdf](https://github.com/JenniferGrosz/Movie_Recommender_Service/blob/3e96c89ee3c732f3edc2d503f038dd2bbf512f93/Movie_recommender_system.pdf)
